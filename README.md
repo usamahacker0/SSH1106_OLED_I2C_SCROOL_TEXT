@@ -15,8 +15,8 @@
 - **NodeMCU V0.9 Pins:**
   - GND
   - 3V
-  - D2 (SCL)
-  - D1 (SDA)
+  - D2 (SDA)
+  - D1 (SCL)
 
 ![Wiring Diagram](https://github.com/usamahacker0/SSH1106_OLED_I2C_SCROOL_TEXT/assets/39077959/d1bac44c-4f63-4956-83f0-ab89174a9d4d)
 
